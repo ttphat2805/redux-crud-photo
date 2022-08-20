@@ -1,0 +1,17 @@
+body {
+  font-size: 16px;
+  font-family: "Quicksand", sans-serif !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.photo-app {
+  padding-bottom: 60px;
+}
+
+.title-home-page {
+  font-size: 50px;
+  transform: translate(40%, 50%);
+}

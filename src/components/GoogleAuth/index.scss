@@ -1,0 +1,41 @@
+a {
+  text-decoration: none;
+}
+
+.googleAuth {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+body {
+  font-size: 18px;
+  font-family: "Quicksand", sans-serif !important;
+}
+
+.user {
+  border: 1px solid #ccc;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+.red {
+  color: #fff !important;
+  background-color: red !important;
+}
+
+.branch {
+  font-size: 2rem;
+  color: #273c75;
+  margin-right: 60px;
+  font-weight: bold;
+}
+
+.header {
+  background: #ecf0f1;
+}
+
+.nav-item a {
+  color: black !important;
+  font-weight: 500;
+}

@@ -1,0 +1,52 @@
+{
+  "photo": [
+    {
+      "title": "New Photo 5",
+      "categoryId": 1,
+      "photo": "https://picsum.photos/id/846/300/300",
+      "id": "74dd97e3-cb75-47f4-9e63-a63a04b8b590"
+    },
+    {
+      "title": "Photooo 2",
+      "categoryId": 2,
+      "photo": "https://picsum.photos/id/882/300/300",
+      "id": "d53ea44f-ed06-42d9-9767-af9beb8fddec"
+    },
+    {
+      "title": "12sdgdggsdg",
+      "categoryId": 2,
+      "photo": "https://picsum.photos/id/669/300/300",
+      "id": "d245778a-c816-4eaf-bb63-109340929fbf"
+    },
+    {
+      "title": "Title List Photo",
+      "categoryId": 2,
+      "photo": "https://picsum.photos/id/927/300/300",
+      "id": "4d36c684-d57e-4b46-9b92-a26341510790"
+    },
+    {
+      "title": "Cars",
+      "categoryId": 3,
+      "photo": "https://picsum.photos/id/279/300/300",
+      "id": "027b1081-bd1b-4ac4-b4d9-53472fb3abf6"
+    },
+    {
+      "title": "Nature",
+      "categoryId": 3,
+      "photo": "https://picsum.photos/id/905/300/300",
+      "id": "2344dff6-358c-412e-9557-f2deb5b252de"
+    },
+    {
+      "title": "HTML",
+      "categoryId": 1,
+      "photo": "https://picsum.photos/id/633/300/300",
+      "id": "564b85ea-4799-4abb-b32a-c424d26860d3"
+    },
+    {
+      "title": "CSS",
+      "categoryId": 1,
+      "photo": "https://picsum.photos/id/475/300/300",
+      "id": "8457708f-9705-426b-b648-127985e67088"
+    }
+  ]
+}
