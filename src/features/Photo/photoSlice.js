@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
 import { toast } from "react-toastify";
-const urlApi = "http://localhost:3005/photo";
+const urlApi = "https://fake-api-json-photos.herokuapp.com/photo";
 
 export const getPhoto = createAsyncThunk("photo/getPhoto", async () => {
   const res = await axios.get(urlApi);
